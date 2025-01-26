@@ -190,10 +190,10 @@ menuIcon.onclick = () => {
 };
 
 // *=============================== github calender ==================================
-    GitHubCalendar(".calendar", "MohammedAshfaql");
+    GitHubCalendar(".calendar", "prateek959");
 
     // or enable responsive functionality:
-    GitHubCalendar(".calendar", "MohammedAshfaql", { responsive: true });
+    GitHubCalendar(".calendar", "prateek959", { responsive: true });
 
 // *=============================== resume open in new tab ==================================
 
@@ -203,7 +203,7 @@ menuIcon.onclick = () => {
 
     function NewTab() {
       window.open(
-        "https://drive.google.com/file/d/1FlWSldeSix81gNtcNVIFTQdI3UUReRlx/view?usp=sharing",
+        "https://drive.google.com/file/d/1G0Czs7baA7WtcWBLypbAkLHM2gA-pmF8/view",
         "_blank"
       );
     }
@@ -266,13 +266,13 @@ const typed = new Typed('.multiple-text', {
 
 
 
-GitHubCalendar(".calendar", "MohammedAshfaql");
+GitHubCalendar(".calendar", "prateek959");
 
 // or enable responsive functionality:
-GitHubCalendar(".calendar", "MohammedAshfaql", { responsive: true });
+GitHubCalendar(".calendar", "prateek959", { responsive: true });
 
 // Use a proxy
-GitHubCalendar(".calendar", "MohammedAshfaql", {
+GitHubCalendar(".calendar", "prateek959", {
    proxy (username) {
      return fetch(`https://your-proxy.com/github?user=${username}`)
    }

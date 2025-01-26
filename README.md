@@ -1,3 +1,1 @@
-    Ashfaq Portfolio Website
- 
-  https://mohammedashfaql.github.io/
+    Prateek Portfolio Website
